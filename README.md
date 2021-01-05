@@ -6,6 +6,7 @@ This code performs a dynamical adjustment procedure as outlined in Deser et al. 
 The current code version is entirely written in NCL (NCAR Command Language, version 6.5.0). I hope (fingers crossed) to be able to finalize a full python version later this year when my IPCC work comes to an end ...
 
 References:
+
 Deser, C., Terray, L., and A. S. Phillips: Forced and internal components of winter air temperature trends over North America during the past 50 years: Mechanisms and implications. J. Climate, 29, 2237–2258, doi:10.1175/JCLI-D-15-0304.1, 2016
 Guo, R., Deser, C., Terray, L., and Lehner, F.: Human influence on winter precipitation trends (1921–2015) over North America and Eurasia revealed by dynamical adjustment. Geophysical Research Letters, 46. https://doi.org/10.1029/2018GL081316, 2019
 Lehner, F., Deser, C., Simpson, I., and Terray, L.: Attributing the US Southwest’s recent shift into drier conditions. Geophys. Res. Lett., 45. https://doi.org/10.1029/2018GL078312, 2018
