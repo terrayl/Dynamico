@@ -1,0 +1,8 @@
+C NCLFORTSTART
+      subroutine distancef(vart, varf, ntt, ntf, nxy, dist)
+      real vart, varf
+      real dist
+      integer ntt, ntf, nxy
+      dimension vart(nxy, ntt), varf(nxy, ntf)
+      dimension dist(ntf, ntt)
+C NCLEND

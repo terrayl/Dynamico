@@ -1,0 +1,6 @@
+C NCLFORTSTART
+      subroutine tewelesf(vart, varf, plat, plon, ntt, ntf, nlat, nlon, tws)
+      integer ntt, ntf, nlat, nlon
+      real vart, varf, tws
+      dimension vart(nlon, nlat, ntt), varf(nlon, nlat, ntf), tws(ntf, ntt), plat(nlat), plon(nlon)
+C NCLEND
