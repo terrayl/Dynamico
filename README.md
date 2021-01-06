@@ -1,9 +1,11 @@
 # Dynamico
-A program to perform a dynamical adjustment procedure
+A dynamical adjustment code
 
-This code performs a dynamical adjustment procedure as outlined in Deser et al. (2016). The main objective of the dynamical adjustment is to derive an estimate of the component of any physical variable variability due solely to atmospheric circulation changes. It has proven to be a very interesting approach in different attribution studies (Guo et al. 2019; Lehner et al. 2017; Lehner et al. 2018). The method is based on (re-)constructed analogues of any atmospheric circulation variable (sea level pressure, geopotential height, atmospheric winds). It can be applied at the monthly, weekly or daily time scale. The original application (Deser et al. 2016) was based on monthly means and the code has now also been extended to daily time scale (Terray 2021). It can be used on both observational and model data. Note however that there are separate versions for model and observations as the basic ingredients and pre-processing phase do differ depending on the dataset nature (observed or simulated). The reader is referred to Deser et al. (2016) for further details.
+This code performs a dynamical adjustment procedure as outlined in Deser et al. (2016). The main objective of the dynamical adjustment is to derive an estimate of the component of any physical variable variability due solely to atmospheric circulation changes. It has proven to be a very interesting approach in different attribution studies (Guo et al. 2019; Lehner et al. 2017; Lehner et al. 2018). The method is based on (re-)constructed analogues of any atmospheric circulation variable (sea level pressure, geopotential height, atmospheric winds). It can be applied at the monthly, weekly or daily time scale. The original application (Deser et al. 2016) was based on monthly means and the code has now also been extended to daily time scale (Terray 2021). It can be used on both observational and model data. Note however that there are separate versions for model and observations as the basic ingredients and pre-processing phase do differ depending on the dataset nature (observed or simulated). The reader is referred to Deser et al. (2016) and Terray (2021) for further details.
 
-The current code version is entirely written in NCL (NCAR Command Language, version 6.5.0). I hope (fingers crossed) to be able to finalize a full python version later this year when my IPCC work comes to an end ...
+The current code version is entirely written in NCL (NCAR Command Language, version 6.5.0, https://www.ncl.ucar.edu/). The code is heavily commented to help users to easily follow the various methodological steps. I hope (fingers crossed) to be able to finalize a full python version later this year when my IPCC work comes to an end ...
+
+If you want to use the code, please read the guidance file first where one can find some simple tips on how to proceed.
 
 References:
 
