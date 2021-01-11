@@ -1,6 +1,6 @@
 A very brief and simple user guide !
 
-Preamble: note that is an evolving document as I will add new stuff when time permits. Note also that only dynamico_monthly.ncl is currently provided, the two other codes will be there soon ! (see below for the differences between the dynamico codes)
+Preamble: note that is an evolving document as I will add new stuff when time permits. Note also that only dynamico_monthly.ncl and dynamico_monthly_model.ncl are currently provided, the other code will be there soon ! (see below for the differences between the dynamico codes)
 
 First, please note that this is by no means an extensive user guide ! My main objective here is simply to give a few tips to run efficiently the code 
 and get fun results. The first thing to check obviously is to make sure that the user has the ncl library installed (version 6.5 is best). 
