@@ -21,4 +21,4 @@ Merrifield, A., Lehner, F., Xie, S.-P., and Deser, C.: Removing circulation effe
 
 O’Reilly, C. H., Woollings, T., and Zanna, L.: The dynamical influence of the Atlantic multidecadal oscillation on continental climate. J. Climate, 30, 7213–7230, https://doi.org/10.1175/JCLI-D-16-0345.1, 2017
 
-Terray, L.: A dynamical adjustment perspective on extreme event attribution. Weather and Climate Dynamics, submitted, June 17th, 2021
+Terray, L.: A dynamical adjustment perspective on extreme event attribution. Weather and Climate Dynamics, in press, September 30th, 2021
